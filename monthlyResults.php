@@ -60,11 +60,12 @@
                             <tr>
                                 <td valign="top" class="mcnTextContent"
                                     style="padding: 0 18px 9px;">
-                                    <p>Bravo <?php //TODO:PSEUDO ?>, tu es classé
+                                    <p>Bravo <?php //TODO:PSEUDO ?>, tu es classé<?php //TODO:rajouter un 'e' si c est une femme!?>
                                         <span style="font-weight: bold"> <?php //TODO:POSITION ?> </span>
                                         sur les <?php //TODO:NBRPILOTESTOTALONHISCATEGORY ?> pilotes enregistrés dans la catégorie
                                         <?php //TODO:CATEGORY?>CC.
                                     </p>
+                                    <p>⏱️ Ton meilleur temps est <span style="font-weight: bold"><?php //TODO:BEST TIME EVER ?>. </span></p>
                                     <!-- PILOT NOT ON PODIUM-->
                                     <p>Continues à te surpasser et tentes d'améliorer ta position pour te rapprocher du podium.</p>
                                     <!-- PILOT ON PODIUM BUT NOT 1st-->
