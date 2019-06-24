@@ -678,6 +678,7 @@
                             //                                                        include 'defaultContent.php';
                             //                                                        include 'monthlyResults.php';
                             //                                                        include 'personalInfoDeleted.php';
+                                                                                    include 'kartCoinPurchase.php';
 
                             ?>
                         </td>
@@ -945,9 +946,9 @@
                                                                 <br>
                                                                 <br>
                                                                 Tu reçois cet email car tu es inscrit en tant que pilote officiel du circuit Loc'karting.<br>
-                                                                Si tu ne souhaites plus utiliser ton compte, tu peux demander à
-                                                                <a target="_blank" href="mailto:support@lockarting.fr?subject=Suppression%20de%20mon%20compte%20pilote&body=Je%20souhaite%20effacer%20toutes%20mes%20informations%20personnelles%20svp."
-                                                                >effacer toutes tes données personnelles directement par mail</a> 😭.
+                                                                Si tu  souhaites te désabonner de cette (magnifique) newsletter, c'est par
+                                                                <a target="_blank" href="mailto:support@lockarting.fr?subject=Désabonnement%20de%20la%20newsletter%20de%20Loc'karting&body=Je%20souhaite%20me%20désabonner%20de%20la%20newsletter%20svp."
+                                                                > ICI</a> 😭.
                                                             </td>
                                                         </tr>
                                                         </tbody>
