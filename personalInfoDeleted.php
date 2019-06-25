@@ -59,7 +59,11 @@
                             <tr>
                                 <td class="mcnImageGroupContent" valign="top"
                                     style="padding-left: 9px; padding-top: 0; padding-bottom: 0;">
-                                    <iframe src="https://giphy.com/embed/As8upVH7z3vkQ" width="564" height="247" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+                                    <img alt="bob l'éponge qui pleure"
+                                         src="img/bobSponge.gif"
+                                         width="564"
+                                         style="max-width:564px; padding-bottom: 0;"
+                                         class="mcnImage">
                                 </td>
                             </tr>
                             </tbody>
