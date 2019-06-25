@@ -675,11 +675,12 @@
                     <tr>
                         <td align="center" valign="top" id="templateBody" data-template-container>
                             <?php
-                            //                                                        include 'defaultContent.php';
-                            //                                                        include 'monthlyResults.php';
-                            //                                                        include 'personalInfoDeleted.php';
-                                                                                    include 'kartCoinPurchase.php';
-
+//                                                                                    include 'defaultContent.php';
+//                                                                                    include 'monthlyResults.php';
+//                                                                                    include 'personalInfoDeleted.php';
+//                                                                                    include 'kartCoinPurchase.php';
+//                                                                                    include 'register.php';
+//                                                                                    include 'retrievePassword.php';
                             ?>
                         </td>
                     </tr>
