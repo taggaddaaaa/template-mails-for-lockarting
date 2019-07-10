@@ -12,8 +12,8 @@
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <h4>Quelle tristesse...</h4>
-                                    <h1>Suppression de tes données personnelles</h1>
+                                    <h4 style="margin:0; mso-line-height-rule:exactly;">Quelle tristesse...</h4>
+                                    <h1 style="margin:0; mso-line-height-rule:exactly;">Suppression de tes données personnelles</h1>
                                 </td>
                             </tr>
                             </tbody>

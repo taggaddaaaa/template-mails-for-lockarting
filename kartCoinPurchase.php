@@ -12,8 +12,8 @@
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <h4>youpiiiii...</h4>
-                                    <h1>Ton achat t'attends au circuit</h1>
+                                    <h4 style="margin:0; mso-line-height-rule:exactly;">youpiiiii...</h4>
+                                    <h1 style="margin:0; mso-line-height-rule:exactly;">Ton achat t'attends au circuit</h1>
                                 </td>
                             </tr>
                             </tbody>
@@ -52,13 +52,13 @@
                             <tr>
 
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <p>Bonjour <?php //TODO: PSEUDO ?>,</p>
-                                    <p>tu viens d'acheter 1 <?php //TODO: NAME OF GIFT (si plusieurs + ' et 1 '...) ?> grâce à ton solde de kartCoins.</p>
-                                    <p>Tu as été débité de <?php //TODO:NB KC ?> kartCoins et il te reste donc <?php //TODO:SOLDE KC ?> kartCoins dans ta cagnotte.</p>
-                                    <p>Tu peux venir dès aujourd'hui retirer ton achat au circuit, en donnant ton pseudo ou ton email à l'accueil.</p>
-                                    <p>N'oublies pas que tu peux gagner facilement des kartCoins en invitant des amis à
+                                    <p style="margin:0;">Bonjour <?php //TODO: PSEUDO ?>,</p>
+                                    <p style="margin:0;">tu viens d'acheter 1 <?php //TODO: NAME OF GIFT (si plusieurs + ' et 1 '...) ?> grâce à ton solde de kartCoins.</p>
+                                    <p style="margin:0;">Tu as été débité de <?php //TODO:NB KC ?> kartCoins et il te reste donc <?php //TODO:SOLDE KC ?> kartCoins dans ta cagnotte.</p>
+                                    <p style="margin:0;">Tu peux venir dès aujourd'hui retirer ton achat au circuit, en donnant ton pseudo ou ton email à l'accueil.</p>
+                                    <p style="margin:0;">N'oublies pas que tu peux gagner facilement des kartCoins en invitant des amis à
                                         se créer un compte pilote et à effectuer leur 1ère course au cicruit.</p>
-                                    <p>Pour inviter tes amis, rien de plus simple! Va sur ton appli à la page de
+                                    <p style="margin:0;">Pour inviter tes amis, rien de plus simple! Va sur ton appli à la page de
                                         fidélité et partages facilement ton code parrain via sms, mail ou depuis les réseaux
                                         sociaux.
                                     </p>
@@ -141,10 +141,10 @@
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <p>Tu peux également gagner des KartCoins à chaque partage sur les réseaux sociaux
+                                    <p style="margin:0;">Tu peux également gagner des KartCoins à chaque partage sur les réseaux sociaux
                                         mais la manière la plus sympa d'en gagner est de venir faire une course au circuit!
                                     </p>
-                                    <p>🏁 À très vite sur la piste!</p>
+                                    <p style="margin:0;">🏁 À très vite sur la piste!</p>
                                 </td>
                             </tr>
                             </tbody>

@@ -11,8 +11,8 @@
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <h4>Vlà du beau monde!</h4>
-                                    <h1>Bienvenue <?php //TODO: PSEUDO ?></h1>
+                                    <h4 style="margin:0; mso-line-height-rule:exactly;">Vlà du beau monde!</h4>
+                                    <h1 style="margin:0; mso-line-height-rule:exactly;">Bienvenue <?php //TODO: PSEUDO ?></h1>
                                 </td>
                             </tr>
                             </tbody>

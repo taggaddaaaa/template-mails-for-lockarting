@@ -12,8 +12,8 @@
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <h4>Qui n'a plus toute sa tête sous son casque?</h4>
-                                    <h1>Bonjour <?php //TODO: PSEUDO ?></h1>
+                                    <h4 style="margin:0; mso-line-height-rule:exactly;">Qui n'a plus toute sa tête sous son casque?</h4>
+                                    <h1 style="margin:0; mso-line-height-rule:exactly;">Bonjour <?php //TODO: PSEUDO ?></h1>
                                 </td>
                             </tr>
                             </tbody>
@@ -98,9 +98,9 @@
                                     <p>
                                         Voici ton nouveau mot de passe:
                                     </p>
-                                    <strong>
+                                    <b>
 										<?php //TODO:NewMDP ?>
-                                    </strong>
+                                    </b>
                                     <p>Pour des raisons de sécurité, pense à le changer rapidement.</p>
                                 </td>
                             </tr>

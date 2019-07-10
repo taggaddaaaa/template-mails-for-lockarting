@@ -11,8 +11,8 @@
                             <tbody>
                             <tr>
                                 <td class="mcnTextContent" style="padding: 0 18px 9px; vertical-align: top;">
-                                    <h4>Alors <?php //TODO: mettre le pseudo ?>, où en es-tu?</h4>
-                                    <h1>Classement du mois de <?php //TODO: mettre (de ou d' + ) le mois ?></h1>
+                                    <h4 style="margin:0; mso-line-height-rule:exactly;">Alors <?php //TODO: mettre le pseudo ?>, où en es-tu?</h4>
+                                    <h1 style="margin:0; mso-line-height-rule:exactly;">Classement du mois de <?php //TODO: mettre (de ou d' + ) le mois ?></h1>
                                 </td>
                             </tr>
                             </tbody>
@@ -51,18 +51,18 @@
                             <tbody>
                             <tr>
                                 <td class="mcnTextContent" style="vertical-align:top; padding: 0 18px 9px;">
-                                    <p>Bravo <?php //TODO:PSEUDO ?>, tu es classé<?php //TODO:rajouter un 'e' si c est une femme!?>
+                                    <p style="margin:0;">Bravo <?php //TODO:PSEUDO ?>, tu es classé<?php //TODO:rajouter un 'e' si c est une femme!?>
                                         <span style="font-weight: bold;"> <?php //TODO:POSITION ?> </span>
                                         sur les <?php //TODO:NBRPILOTESTOTALONHISCATEGORY ?> pilotes enregistrés dans la catégorie
 										<?php //TODO:CATEGORY?>CC.
                                     </p>
-                                    <p>⏱️ Ton meilleur temps est <span style="font-weight: bold;"><?php //TODO:BEST TIME EVER ?>. </span></p>
+                                    <p style="margin:0;">⏱️ Ton meilleur temps est <span style="font-weight: bold;"><?php //TODO:BEST TIME EVER ?>. </span></p>
                                     <!-- PILOT NOT ON PODIUM-->
-                                    <p>Continues à te surpasser et tentes d'améliorer ta position pour te rapprocher du podium.</p>
+                                    <p style="margin:0;">Continues à te surpasser et tentes d'améliorer ta position pour te rapprocher du podium.</p>
                                     <!-- PILOT ON PODIUM BUT NOT 1st-->
-                                    <p>Continues à te surpasser, tu n'es plus si loin de la pôle position!</p>
+                                    <p style="margin:0;">Continues à te surpasser, tu n'es plus si loin de la pôle position!</p>
                                     <!-- 1st PILOT -->
-                                    <p>Continues comme ça, mais attention: Le plus dûr est de garder la pôle position!</p>
+                                    <p style="margin:0;">Continues comme ça, mais attention: Le plus dûr est de garder la pôle position!</p>
                                 </td>
                             </tr>
                             </tbody>

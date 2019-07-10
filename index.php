@@ -1,8 +1,8 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
 <head>
+    <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--TODO: define the subject according to the content-->
@@ -20,7 +20,7 @@
             border-collapse: collapse;
         }
 
-        h1, h2, h3, h4, h5, h6 {
+        h1, h3, h4 {
             display: block;
             margin: 0;
             padding: 0;
@@ -103,22 +103,6 @@
             line-height: 150%;
             letter-spacing: normal;
             text-align: center;
-        }
-
-        /*
-        @tab Page
-        @section Heading 2
-        @style heading 2
-        */
-        h2 {
-            color: #222222;
-            font-family: Helvetica, sans-serif;
-            font-size: 34px;
-            font-style: normal;
-            font-weight: bold;
-            line-height: 150%;
-            letter-spacing: normal;
-            text-align: left;
         }
 
         /*
@@ -318,16 +302,6 @@
              */
             h1 {
                 font-size: 30px !important;
-                line-height: 125% !important;
-            }
-
-            /*
-            @tab Mobile Styles
-            @section Heading 2
-            @tip Make the second-level headings larger in size for better readability on small screens.
-            */
-            h2 {
-                font-size: 26px !important;
                 line-height: 125% !important;
             }
 
@@ -696,7 +670,7 @@
                                                                     - Loc'karting, Tous droits réservés.</em>
                                                                 <br>
                                                                 <br>
-                                                                <strong>Nos coordonnées:</strong>
+                                                                <b>Nos coordonnées:</b>
                                                                 <br>
                                                                 Loc'karting, circuit de karting, Route Départementale 172, Lieu-dit La Pailletrice, 34470 Pérols.
                                                                 <br>

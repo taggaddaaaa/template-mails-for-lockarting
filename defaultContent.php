@@ -12,8 +12,8 @@
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <h4>Accroche de titre</h4>
-                                    <h1>Titre</h1>
+                                    <h4 style="margin:0; mso-line-height-rule:exactly;">Accroche de titre</h4>
+                                    <h1 style="margin:0; mso-line-height-rule:exactly;">Titre</h1>
                                 </td>
                             </tr>
                             </tbody>
@@ -136,11 +136,11 @@
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <p>Announcements work best with a visually striking
+                                    <p style="margin:0;">Announcements work best with a visually striking
                                         image followed by the details that people need to
                                         get involved.
                                     </p>
-                                    <p>Start by replacing the full-width header and main
+                                    <p style="margin:0;">Start by replacing the full-width header and main
                                         images with your own, or use a
                                         <a href="" target="parent">solid color background</a>
                                         .
@@ -184,15 +184,15 @@
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent" style="padding: 0 18px 9px;">
-                                    <h3>Draw attention with a heading.</h3>
-                                    <p>Share your news in a sentence or 2, and consider
+                                    <h3 style="margin:0; mso-line-height-rule:exactly;">Draw attention with a heading.</h3>
+                                    <p style="margin:0;"> style="margin:0;"Share your news in a sentence or 2, and consider
                                         using a list to show the most important details:</p>
                                     <ul>
                                         <li>Here's what's happening.</li>
                                         <li>Here's where it'll be.</li>
                                         <li>Here's when it starts and ends.</li>
                                     </ul>
-                                    <p>Less is more here, since you're trying to get people
+                                    <p style="margin:0;">Less is more here, since you're trying to get people
                                         to visit your site.</p>
                                 </td>
                             </tr>
