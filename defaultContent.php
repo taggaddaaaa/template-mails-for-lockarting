@@ -49,7 +49,7 @@
                             <tbody>
                             <tr>
                                 <td valign="top" style="mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-left: 9px; padding-top: 0; padding-bottom: 0;">
-                                    <img alt="" src="img/announcement-full.png" width="564" style="border:0;height:auto;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;max-width:564px; padding-bottom: 0;">
+                                    <img alt="" src="img/announcement-full.png" width="564" style="border:0;height:auto;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;max-width:564px; padding-bottom: 0;"/>
                                 </td>
                             </tr>
                             </tbody>
